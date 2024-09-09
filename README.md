@@ -40,3 +40,17 @@ This project is a full-stack investment management system developed by Baldeep P
 2. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/investment-management-app.git
+
+   Configure the API:
+
+Add your Alpha Vantage API key to the configuration settings within the app.
+Run the Application:
+
+Open the project in Visual Studio.
+Ensure that your database connection string is correctly configured.
+Build and run the app to start managing your investments.
+Use the App:
+
+Log in with your credentials.
+Enter stock tickers and view live prices.
+Create, update, or delete portfolio entries to manage your investments.
