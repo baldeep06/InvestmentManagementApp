@@ -1,6 +1,6 @@
 # Investment Management App
 
-This project is a full-stack investment management system developed using C#, SQL, and .NET. The app allows users to manage their financial portfolios in real-time, integrating live stock data and providing a secure interface for updating and maintaining their investments.
+This project is a full-stack investment management system developed by Baldeep Pannu and Aadit Shah using C#, SQL, and .NET. The app allows users to manage their financial portfolios in real-time, integrating live stock data and providing a secure interface for updating and maintaining their investments.
 
 ## Features
 - **Dynamic CRUD Functionality:**  
