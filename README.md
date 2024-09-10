@@ -58,6 +58,6 @@ This project is a full-stack investment management system developed using C#, .N
 3. Build and run the app to start managing your investments.
 
 5. **Use the App:**
-- Log in with your credentials.
+- Log in with your credentials (It might be U:Admin P: sa123).
 - Enter stock tickers and view live prices.
 - Create, update, or delete portfolio entries to manage your investments.
